@@ -1,0 +1,21 @@
+config.js
+node_modules/*
+bower_components
+.bowerrc
+content/apps/*
+content/data/*
+content/images/*
+content-bak/*
+core/built
+core/server/views/default.hbs
+core/shared/ghost-url.min.js
+log
+*.log
+
+# Ghost DB file
+*.db
+*.db-journal
+
+.build
+.dist
+.tmp
